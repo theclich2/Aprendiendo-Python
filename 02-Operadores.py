@@ -11,7 +11,7 @@ print("Calcular un exponente(elevar): ",2**3)
 print("Hola " + "mundo")
 print("Hola "+ str(56))
 
-            ## Operadores Comparativos##
+            ## Operadores Comparativos ##
 print("################Operadores Comparativos################")
 
 
@@ -21,3 +21,11 @@ print(3>=4)
 print(3<=4)
 print(3==4)
 print(3!=4)
+
+            ## Operadores Lógicos ##
+
+print("################Operadores Lógicos################")
+
+print(3 > 4 and "Hola" > "Python")
+print(3 > 4 or "Hola" > "Python")
+print(not (3 > 4))
